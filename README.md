@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I’m Disha— a CSE student who talks to his computer more than people. I write code that sometimes works (on the second try).<br>⚡ Debugging = my cardio.<br>☕ Running on caffeine, chaos, and Stack Overflow.<br>🌱 Currently learning how to make my bugs feature-rich.
+👋 Hey, I’m Disha— a CSE student who talks to her computer more than people. I write code that sometimes works (on the second try).<br>⚡ Debugging = my cardio.<br>☕ Running on caffeine, chaos, and Stack Overflow.<br>🌱 Currently learning how to make my bugs feature-rich.
 
 
 ## 🌐 Socials:
